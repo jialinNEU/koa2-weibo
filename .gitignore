@@ -31,3 +31,5 @@ dump.rdb
 uploadFiles
 
 .env
+
+*.md
